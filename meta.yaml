@@ -11,5 +11,3 @@ build:
 requirements:
   build:
     - cmake
-    - gcc >=4.9.1
-
